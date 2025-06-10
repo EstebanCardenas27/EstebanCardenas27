@@ -16,6 +16,7 @@
   y mantenimiento de plataformas web escalables.
 </p>
 
+---
 
 ## 🧰 Tecnologías y herramientas 🧰
 
