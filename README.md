@@ -1,4 +1,4 @@
-<center>
+<div align="center" >
 # Bienvenido a mi Perfil !!!
 
 **Ingeniero en Informática** y **Analista Programador** con enfoque Full-Stack. Me destaco por mi adaptabilidad, aprendizaje continuo y enfoque en la resolución de problemas. He trabajado en el desarrollo de **microservicios**, integraciones con APIs (como SII y Jira), y mantenimiento de plataformas web escalables.
@@ -65,4 +65,4 @@
 --- 
 > “La tecnología está en constante evolución, y yo también.”
 
-</center>
+</div>
