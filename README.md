@@ -1,11 +1,20 @@
 <div align="center" >
-# Bienvenido a mi Perfil !!!
-<img src="https://img.shields.io/badge/Full--Stack-Developer-blueviolet?style=for-the-badge&logo=dev.to" alt="Full-Stack Developer"/>  
-<img src="https://img.shields.io/badge/Coding-100%25-green?style=for-the-badge&logo=visualstudiocode" alt="Coding"/>  
-<img src="https://img.shields.io/badge/Always--Learning-yellow?style=for-the-badge&logo=read-the-docs" alt="Always Learning"/>  
+<p align="center">
+  
+  <h1>👋 Bienvenido a mi Perfil !!!</h1>
 
-**Ingeniero en Informática** y **Analista Programador** con enfoque Full-Stack. Me destaco por mi adaptabilidad, aprendizaje continuo y enfoque en la resolución de problemas. He trabajado en el desarrollo de **microservicios**, integraciones con APIs (como SII y Jira), y mantenimiento de plataformas web escalables.
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-blueviolet?style=for-the-badge&logo=dev.to" alt="Full-Stack Developer"/><br>
+  <img src="https://img.shields.io/badge/Coding-100%25-green?style=for-the-badge&logo=visualstudiocode" alt="Coding"/><br>
+  <img src="https://img.shields.io/badge/Always--Learning-yellow?style=for-the-badge&logo=read-the-docs" alt="Always Learning"/>
 
+</p>
+
+<p align="center">
+  <b>Ingeniero en Informática</b> y <b>Analista Programador</b> con enfoque Full-Stack.  
+  Me destaco por mi adaptabilidad, aprendizaje continuo y enfoque en la resolución de problemas.  
+  He trabajado en el desarrollo de <b>microservicios</b>, integraciones con APIs (como SII y Jira),  
+  y mantenimiento de plataformas web escalables.
+</p>
 ---
 
 ## 🧰 Tecnologías y herramientas 🧰
