@@ -1,12 +1,11 @@
+<p align="center">
 # Bienvenido a mi Perfil !!!
 
 **Ingeniero en Informática** y **Analista Programador** con enfoque Full-Stack. Me destaco por mi adaptabilidad, aprendizaje continuo y enfoque en la resolución de problemas. He trabajado en el desarrollo de **microservicios**, integraciones con APIs (como SII y Jira), y mantenimiento de plataformas web escalables.
 
 ---
 
-<p align="center">
-
-## 🧰 Tecnologías y herramientas
+## 🧰 Tecnologías y herramientas 🧰
 
 ---
 
@@ -56,33 +55,14 @@
 |-------------|-------------|
 | ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | ![](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) |
 
-</p>
 ---
 
-## 📚 Formación y Cursos
-**🎓 Ingeniería en Informática**, INACAP Valdivia (2022 – 2023)  
-**🎓 Analista Programador**, INACAP Valdivia (2018 – 2020)
 
-**🎓 Cursos destacados:**
-- Principios SOLID y Clean Code – Udemy (2025)
-- NodeJS: De cero a experto – Udemy (2025)
-- React Native CLI – Udemy (2024)
-
-<p align="center">
-
-| Estadísticas de GitHub | Lenguajes más usados |
+| Estadísticas de GitHub | Tecnologías Manejadas  |
 |:---------------------:|:-------------------:|
 | ![Estadísticas](https://github-readme-stats.vercel.app/api?username=EstebanCardenas27&show_icons=true&theme=radical&hide_border=true&hide_title=true&count_private=true&line_height=24) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanCardenas27&layout=compact&theme=radical&hide_border=true&hide_title=true) |
 
-</p>
-
-## 📫 Contacto
-
-- 📧 estebancardenas2796@gmail.com  
-- 📍 Valdivia, Los Ríos, Chile  
-- 🌐 [LinkedIn](https://linkedin.com/in/esteban-cárdenas)  
-- 💻 [GitHub](https://github.com/EstebanCardenas27)
-
----
-
+--- 
 > “La tecnología está en constante evolución, y yo también.”
+
+</p>
