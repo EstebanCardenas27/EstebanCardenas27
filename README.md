@@ -4,14 +4,57 @@
 
 ---
 
-## 🧰 Tecnologías y herramientas
-- **Lenguajes:** PHP, JavaScript, C#, Java, HTML, CSS
-- **Frameworks y Librerías:** Symfony, React, Node.js, React Native CLI, ASP.NET Core, .NET MVC
-- **Bases de datos:** MySQL, SQL Server, MongoDB
-- **Control de versiones:** Git, GitHub, Bitbucket
-- **DevOps & Herramientas:** Docker, Azure Cloud
-- **Gestión de proyectos:** Jira, ClickUp
+<p align="center">
 
+## 🧰 Tecnologías y herramientas
+
+---
+
+### Lenguajes de Programación  
+**PHP** &nbsp;&nbsp; 🚀🚀🚀🚀🚀🚀🚀🚀⬜⬜  
+**JavaScript** &nbsp;&nbsp; 🚀🚀🚀🚀🚀🚀🚀🚀🚀⬜  
+**C#** &nbsp;&nbsp; 🚀🚀🚀🚀🚀🚀🚀⬜⬜⬜  
+**Java** &nbsp;&nbsp; 🚀🚀🚀🚀🚀🚀⬜⬜⬜⬜  
+**HTML** &nbsp;&nbsp; 🚀🚀🚀🚀🚀🚀🚀🚀🚀⬜  
+**CSS** &nbsp;&nbsp; 🚀🚀🚀🚀🚀🚀🚀🚀🚀⬜  
+
+---
+
+### Frameworks y Librerías  
+**Symfony** &nbsp;&nbsp; ⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⬜⬜  
+**React** &nbsp;&nbsp; ⚛️⚛️⚛️⚛️⚛️⚛️⚛️⚛️⚛️⬜  
+**Node.js** &nbsp;&nbsp; 🌳🌳🌳🌳🌳🌳🌳🌳🌳⬜  
+**React Native CLI** &nbsp;&nbsp; ⚛️⚛️⚛️⚛️⚛️⚛️⚛️⬜⬜⬜  
+**ASP.NET Core** &nbsp;&nbsp; ⚙️⚙️⚙️⚙️⚙️⚙️⚙️⬜⬜⬜  
+**.NET MVC** &nbsp;&nbsp; ⚙️⚙️⚙️⚙️⚙️⚙️⬜⬜⬜⬜  
+
+---
+
+### Bases de Datos  
+**MySQL** &nbsp;&nbsp; 🐬🐬🐬🐬🐬🐬🐬🐬🌑🌑  
+**SQL Server** &nbsp;&nbsp; 🐘🐘🐘🐘🐘🐘🐑🌑🌑🌑  
+**MongoDB** &nbsp;&nbsp; 🍃🍃🍃🍃🍃🍃🌑🌑🌑🌑  
+
+---
+
+### Control de versiones  
+**Git** &nbsp;&nbsp; 🐙🐙🐙🐙🐙🐙🐙🐙🐙⬜  
+**GitHub** &nbsp;&nbsp; 🐙🐙🐙🐙🐙🐙🐙🐙⬜⬜  
+**Bitbucket** &nbsp;&nbsp; 🐦🐦🐦🐦🐦🐦⬜⬜⬜⬜  
+
+---
+
+### DevOps & Herramientas  
+**Docker** &nbsp;&nbsp; 🐳🐳🐳🐳🐳🐳🐳🐳⬜⬜  
+**Azure Cloud** &nbsp;&nbsp; ☁️☁️☁️☁️☁️⬜⬜⬜⬜⬜  
+
+---
+
+### Gestión de proyectos  
+**Jira** &nbsp;&nbsp; 📝📝📝📝📝📝📝📝⬜⬜  
+**ClickUp** &nbsp;&nbsp; ✅✅✅✅✅✅⬜⬜⬜⬜  
+
+</p>
 ---
 
 ## 📚 Formación y Cursos
