@@ -15,7 +15,7 @@
   He trabajado en el desarrollo de <b>microservicios</b>, integraciones con APIs (como SII y Jira),  
   y mantenimiento de plataformas web escalables.
 </p>
----
+
 
 ## 🧰 Tecnologías y herramientas 🧰
 
