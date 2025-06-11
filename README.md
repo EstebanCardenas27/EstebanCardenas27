@@ -56,12 +56,11 @@
 
 ### DevOps & Herramientas
 
-| Docker      | Azure Cloud |
-|-------------|-------------|
-| ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white) |
+| Docker      | Azure Cloud | Postman     |
+|-------------|-------------|-------------|
+| ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ---
-
 ### Gestión de proyectos
 
 | Jira        | ClickUp     |
